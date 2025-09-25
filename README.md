@@ -35,23 +35,3 @@ This repository contains a collection of eight projects demonstrating proficienc
 | **Surveillance Camera** | Developed a surveillance system for image capturing and IoT integration. | Arduino UNO, ESP32, IoT Integration | [`surveillance_camera_iot`](./surveillance_camera_iot) |
 
 ---
-
-## 🚀 Setup and Access
-
-All project code, along with individual `requirements.txt` files (where applicable), can be found in the respective folders linked above.
-
-**To run any project locally:**
-
-1. Clone this repository: `git clone [Your Repo Link]`
-2. Navigate into the desired project folder: `cd consumer_complaint_nlp`
-3. Install dependencies: `pip install -r requirements.txt`
-
----
-
-## 4. Next Steps: Uploading the Files
-
-1.  **Clone the Repo:** Clone the newly created `mini-projects-data-ml-portfolio` to your local machine.
-2.  **Create Folders:** Use the `mkdir` command in your terminal to create all eight sub-folders listed in the structure above.
-3.  **Organize Files:** Move the corresponding code and dependency files into their respective folders.
-4.  **Add Master README:** Move the `README.md` file you just created into the root of the repository.
-5.  **Commit and Push:** Use the standard Git workflow to upload all the content to GitHub.
