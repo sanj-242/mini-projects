@@ -10,8 +10,8 @@ This repository contains a collection of eight projects demonstrating proficienc
 
 | Project | Description | Key Technologies | Folder |
 | :--- | :--- | :--- | :--- |
-| **Consumer Complaint Resolution** | Built a classifier for categorizing and addressing user complaints. | NLP, Scikit-learn, Text Classification | [`consumer_complaint_nlp`](./consumer_complaint_nlp) |
-| **Twitter Sentiment Analysis** | Conducted sentiment analysis on Twitter data to determine public mood. | NLP Techniques, Machine Learning, Data Extraction | [`twitter_sentiment_analysis`](./twitter_sentiment_analysis) |
+| **Consumer Complaint Resolution** | Built a classifier for categorizing and addressing user complaints. | NLP, Scikit-learn, Text Classification | [`consumer_complaint_nlp`](./Consumer_Complaint_Resolution) |
+| **Twitter Sentiment Analysis** | Conducted sentiment analysis on Twitter data to determine public mood. | NLP Techniques, Machine Learning, Data Extraction | [`twitter_sentiment_analysis`](./Twitter_Sentiment_Analysis) |
 
 ### 2. Data Forecasting & Analysis
 
@@ -19,7 +19,7 @@ This repository contains a collection of eight projects demonstrating proficienc
 | :--- | :--- | :--- | :--- |
 | **Stock Price Prediction** | Built an ML model to forecast AMZN stock prices using time-series data. | Time Series, Machine Learning, Pandas | [`stock_price_prediction`](./stock_price_prediction) |
 | **Sales Analysis** | Extracted, cleaned, and visualized key sales insights. | Python (Pandas, Matplotlib), Data Cleaning | [`sales_analysis`](./sales_analysis) |
-| **Infrastructure Data Visualization**| Developed interactive dashboards to present key performance metrics for a company. | Tableau, Key Performance Indicators (KPIs), Data Storytelling | [`infra_data_visualization`](./infra_data_visualization) |
+| **Infrastructure Data Visualization**| Developed interactive dashboards to present key performance metrics for a company. | Tableau, Key Performance Indicators (KPIs), Data Storytelling | [`Infra_data_visualization`](./infra_data_visualization) |
 
 ### 3. Deep Learning & Recommendation
 
