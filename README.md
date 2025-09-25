@@ -1,10 +1,10 @@
-# 🌟 Data & ML Mini Projects Portfolio
+# Data & ML Mini Projects Portfolio
 
 This repository contains a collection of eight projects demonstrating proficiency across core data science and machine learning disciplines, including NLP, Time Series Analysis, Visualization, and Recommendation Systems.
 
 ---
 
-## 📊 Projects Overview
+## Projects Overview
 
 ### 1. NLP & Classification
 
